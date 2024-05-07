@@ -349,13 +349,13 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 
-![Screenshot 2024-05-07 175433](https://github.com/VIKASHAR/animation/assets/119405655/3f9f1ac8-9050-452f-a692-8502ed6084b0)
+![Screenshot 2024-05-07 180512](https://github.com/VIKASHAR/animation/assets/119405655/191fcd37-7f05-460b-ad20-78d209e933f0)
 
-![Screenshot 2024-05-07 175444](https://github.com/VIKASHAR/animation/assets/119405655/66082501-1f0b-443e-b198-26e3a9c082cb)
+![Screenshot 2024-05-07 180534](https://github.com/VIKASHAR/animation/assets/119405655/2bfd8d85-2494-4eed-8cb5-be8d5331a9ff)
 
-![Screenshot 2024-05-07 175457](https://github.com/VIKASHAR/animation/assets/119405655/03662360-ac70-4e50-8e03-36b85c5d7e06)
+![Screenshot 2024-05-07 180543](https://github.com/VIKASHAR/animation/assets/119405655/0d851477-793d-4603-988c-2c77f622db8b)
 
-![Screenshot 2024-05-07 175513](https://github.com/VIKASHAR/animation/assets/119405655/98964176-bf23-4869-bdec-6440a5c9fa61)
+![Screenshot 2024-05-07 180552](https://github.com/VIKASHAR/animation/assets/119405655/5ecb07f6-d11f-443d-96fa-c042a36c9a97)
 
 
 

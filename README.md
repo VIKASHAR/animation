@@ -348,13 +348,15 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![p1](https://github.com/AnnBlessy/animation/assets/119477835/5df37835-e8d1-4dba-9f73-69f5edec628f)
 
-![p2](https://github.com/AnnBlessy/animation/assets/119477835/24a7fdd5-4a79-46f5-a49d-21bdf105fb3b)
+![Screenshot 2024-05-07 175433](https://github.com/VIKASHAR/animation/assets/119405655/3f9f1ac8-9050-452f-a692-8502ed6084b0)
 
-![p3](https://github.com/AnnBlessy/animation/assets/119477835/7dd61cc2-a43c-4f57-9341-29cdc071f702)
+![Screenshot 2024-05-07 175444](https://github.com/VIKASHAR/animation/assets/119405655/66082501-1f0b-443e-b198-26e3a9c082cb)
 
-![p4](https://github.com/AnnBlessy/animation/assets/119477835/b6e4d39f-c18c-432f-b074-4029ba1937c4)
+![Screenshot 2024-05-07 175457](https://github.com/VIKASHAR/animation/assets/119405655/03662360-ac70-4e50-8e03-36b85c5d7e06)
+
+![Screenshot 2024-05-07 175513](https://github.com/VIKASHAR/animation/assets/119405655/98964176-bf23-4869-bdec-6440a5c9fa61)
+
 
 
 ## RESULT
